@@ -1,0 +1,4 @@
+- description of the project (including programming languages)
+- what your purpose was in creating it (if a personal project)
+- how to run the project
+- potential screenshots for those that dont have python or pygame
