@@ -12,4 +12,4 @@ I started this project to learn pygame. Most of the codes are based on the Youtu
 3. Run the file called snake_game_cleaned_up_version using IDE of your choice.
 
 
-Have fun! :smiley:
+## Have fun! :smiley:
